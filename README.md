@@ -7,10 +7,10 @@ An original dataset was created by extracting images of 17 different plants from
 You can download the mini dataset, which contains 100 sample images from each plant species, from the link. 
 To access the full dataset, please contact the author.
 # 2. Dataset samples
-<table><tr><td>deneme</td><td>deneme 2</td></tr></table>
+
 ![clip_image008](https://github.com/user-attachments/assets/3db0c03c-c7d7-40ce-95e8-90c00219dbc2) 
 ![clip_image006](https://github.com/user-attachments/assets/4f045a65-b689-4cdd-8c16-13b289b6ba73)
-![clip_image004](https://github.com/user-attachments/assets/11ac2dd4-c09a-40bb-a977-f3aeb2f16e37)
+![clip_image004](https://github.com/user-attachments/assets/11ac2dd4-c09a-40bb-a977-f3aeb2f16e37) <br>
 ![clip_image002_0000](https://github.com/user-attachments/assets/7d45b04f-1b37-4e54-b2fc-415708225ffa)
 ![clip_image034](https://github.com/user-attachments/assets/04517fb3-ce98-4ed1-ab03-b6afad47cfe3)
 ![clip_image032](https://github.com/user-attachments/assets/f566a9c0-846c-4fc2-a7c9-b354b12a4766)
