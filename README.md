@@ -28,6 +28,9 @@ To access the full dataset, please contact the author.
 
 
 # 3. Image Grey Histogram
+![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
+![image](https://github.com/user-attachments/assets/9614cada-eb37-4629-b803-e268654a69d7)
+
 
 # 4. Local Binary Pattern (LBP) + Grey Histogram
 # 5. Local Binomial Pattern (LBiP) +  Grey Histograam
