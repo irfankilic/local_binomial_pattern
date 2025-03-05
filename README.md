@@ -28,6 +28,7 @@ To access the full dataset, please contact the author.
 
 
 # 3. Image Histogram
+
 # 4. Local Binary Pattern (LBP) + histogram
 # 5. Local Binomial Pattern (LBiP) + Histograam
 # 6. Local Binomial Pattern (LBiP) + Histogram + SVM
