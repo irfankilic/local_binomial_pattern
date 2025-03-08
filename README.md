@@ -28,18 +28,21 @@ To access the full dataset, please contact the author.
 
 
 # 3. Image Grey Histogram
+<strong>Histogram.m file</strong><br>
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
 ![image](https://github.com/user-attachments/assets/9614cada-eb37-4629-b803-e268654a69d7)
-histogram.m file
+
 
 
 # 4. Local Binary Pattern (LBP) + Grey Histogram
+<strong>LBP_Histogram.m file</strong><br>
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
 ![image](https://github.com/user-attachments/assets/78f64703-b9b2-45c9-afd7-fd8de8a327e5)
 
 # 5. Local Binomial Pattern (LBiP) +  Grey Histograam
+<strong>LBiP_Histogram.m file</strong><br>
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
 ![image](https://github.com/user-attachments/assets/c00a3ae6-3e7b-462b-b686-c508c2de42c3)
 
-# 6. Local Binomial Pattern (LBiP) + Grey Histogram + SVM
-# 7. Local Binomial Pattern (LBiP) + Grey Histogram + NCA + SVM
+# 6. Local Binomial Pattern (LBP) + Grey Histogram + SVM
+# 7. Local Binomial Pattern (LBiP) + Grey Histogram + SVM
