@@ -37,7 +37,9 @@ To access the full dataset, please contact the author.
 # 4. Local Binary Pattern (LBP) + Grey Histogram
 <strong><a href="/LBP_Histogram.m" target="_blank"> LBP_Histogram.m file</a></strong><br> MATLAB code to convert image to grey histogram with LBP feature extractor<br>
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
-![image](https://github.com/user-attachments/assets/78f64703-b9b2-45c9-afd7-fd8de8a327e5)
+![image](https://github.com/user-attachments/assets/78f64703-b9b2-45c9-afd7-fd8de8a327e5)<br>
+![image](https://github.com/user-attachments/assets/457801b4-3789-4a18-8804-5d4b89d1d47f)
+
 
 # 5. Local Binomial Pattern (LBiP) +  Grey Histograam
 <strong><a href="/LBiP_Histogram.m" target="_blank"> LBiP_Histogram.m file</a></strong><br> MATLAB code to convert image to grey histogram with LBiP feature extractor <br>
