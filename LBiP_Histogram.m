@@ -22,7 +22,7 @@ for i=1:length(dosya)
 % Get the dimensions of the image.  numberOfColorBands should be = 1.
 [rows columns numberOfColorBands] = size(grayImage);
 
-localBinaryPatternImage = zeros(size(grayImage));
+localBinomialPatternImage = zeros(size(grayImage));
 for row = 5 : rows - 4   
 	for col = 5 : columns - 4       
 				centerPixel = grayImage(row, col);
@@ -80,11 +80,11 @@ for row = 5 : rows - 4
         p95 = grayImage(row+2, col) > centerPixel; 
         
         
-		localBinaryPatternImage(row, col) = uint8(p15  +  p24 + p25*2 + p26 + p33 + p34*3 + p35*6 + p36*3 + p37 + p42 + p43*4 + p44*10 + p45*20 + p46*10 + p47*4 + p48 + p51 + p52*8 + p53*15 + p54*35 + p56*35 + p57*15 + p58*8 + p59 + p62 + p63*4 + p64*10 + p65*20 + p66*10 + p67*4 + p68 + p73 + p74*3 + p75*6 + p76*3 + p77 +  p84 + p85*2 + p86 + p95);
+		localBinomialPatternImage(row, col) = uint8(p15  +  p24 + p25*2 + p26 + p33 + p34*3 + p35*6 + p36*3 + p37 + p42 + p43*4 + p44*10 + p45*20 + p46*10 + p47*4 + p48 + p51 + p52*8 + p53*15 + p54*35 + p56*35 + p57*15 + p58*8 + p59 + p62 + p63*4 + p64*10 + p65*20 + p66*10 + p67*4 + p68 + p73 + p74*3 + p75*6 + p76*3 + p77 +  p84 + p85*2 + p86 + p95);
 
 	end  
 end 
-[pixelCounts, GLs] = imhist(uint8(localBinaryPatternImage));
+[pixelCounts, GLs] = imhist(uint8(localBinomialPatternImage));
 
 ozellik(k,1:256)=pixelCounts';
 ozellik(k,257) =z;
