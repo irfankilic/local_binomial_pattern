@@ -4,7 +4,7 @@ This study is on the classification of UAV collected plant images using our prop
 It consists of the following steps, respectively.  
 # 1. Data collect and dataset
 An original dataset was created by extracting images of 17 different plants from the videos taken from the camera on the UAV. The dataset consists of a total of 6,170 images. These are as follows; <strong>, aubergine, pepper, corn, watermelon, strawberry, mint, carrot, parsley, basil, black cabbage, white cabbage, melon, courgette, cucumber, beans, wild herb, and tomato </strong> plants. 
-You can download the mini dataset, which contains 100 sample images from each plant species, from the link. 
+You can download the mini dataset (17x25 = 425 images), which contains 25 sample images from each plant species, from the link. 
 To access the full dataset, please contact the author.
 # 2. Dataset samples
 
