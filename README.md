@@ -28,7 +28,7 @@ To access the full dataset, please contact the author.
 
 
 # 3. Image Grey Histogram
-<strong><a href="/Histogram.m" target="_blank">Histogram.m</a> file</strong><br> MATLAB code to convert image to gray histogram <br><br> 
+<strong><a href="/Histogram.m" target="_blank">Histogram.m file</a> </strong><br> MATLAB code to convert image to gray histogram <br><br> 
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
 ![image](https://github.com/user-attachments/assets/9614cada-eb37-4629-b803-e268654a69d7)
 
@@ -44,5 +44,9 @@ To access the full dataset, please contact the author.
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
 ![image](https://github.com/user-attachments/assets/c00a3ae6-3e7b-462b-b686-c508c2de42c3)
 
-# 6. Local Binomial Pattern (LBP) + Grey Histogram + SVM
-# 7. Local Binomial Pattern (LBiP) + Grey Histogram + SVM
+# 6. Grey Histogram + SVM
+<strong><a href="/SVM_Histogram.m" target="_blank"> SVM_Histogram.m file</a></strong><br> Classification of Grey Histogram image with SVM classifier<br>
+# 7. Local Binary Pattern (LBP) + Grey Histogram + SVM
+<strong><a href="/SVM_LBP.m" target="_blank"> SVM_LBP.m file</a></strong><br> Classification of LBP image with SVM classifier<br>
+# 8. Local Binomial Pattern (LBiP) + Grey Histogram + SVM
+<strong><a href="/SVM_LBiP.m" target="_blank"> SVM_LBiP.m file</a></strong><br> Classification of LBiP image with SVM classifier<br>
