@@ -1,5 +1,5 @@
-# Local_binomial_pattern
-Local Binomial Pattern is a feature extractor that can be applied on images.
+# Local Binomial Pattern
+Local Binomial Pattern is a feature extractor that can be applied on images. It works on the logic of using binomial expansion as a feature extractor on the image.
 This study is on the classification of UAV collected plant images using our proposed lightweight Local Binomial Pattern feature extractor. 
 It consists of the following steps, respectively.  
 # 1. Data collect and dataset
