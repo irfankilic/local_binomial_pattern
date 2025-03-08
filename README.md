@@ -40,7 +40,7 @@ To access the full dataset, please contact the author.
 ![image](https://github.com/user-attachments/assets/78f64703-b9b2-45c9-afd7-fd8de8a327e5)
 
 # 5. Local Binomial Pattern (LBiP) +  Grey Histograam
-<strong>LBiP_Histogram.m file</strong><br> Görüntüyü LBP özellik çıkarıcı ile grey histograma dönüştüren MATLAB kodu <br>
+<strong>LBiP_Histogram.m file</strong><br> Görüntüyü LBiP özellik çıkarıcı ile grey histograma dönüştüren MATLAB kodu <br>
 ![image](https://github.com/user-attachments/assets/8311a2bb-1322-48f7-af9c-0e32db8ebe7f) <br>
 ![image](https://github.com/user-attachments/assets/c00a3ae6-3e7b-462b-b686-c508c2de42c3)
 
