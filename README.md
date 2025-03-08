@@ -53,3 +53,6 @@ To access the full dataset, please contact the author.
 <strong><a href="/SVM_LBP.m" target="_blank"> SVM_LBP.m file</a></strong><br> Classification of LBP image with SVM classifier<br>
 # 8. Local Binomial Pattern (LBiP) + Grey Histogram + SVM
 <strong><a href="/SVM_LBiP.m" target="_blank"> SVM_LBiP.m file</a></strong><br> Classification of LBiP image with SVM classifier<br>
+# Results
+![image](https://github.com/user-attachments/assets/c63175c2-c82a-4b48-bdc8-154eb80829bd)
+
