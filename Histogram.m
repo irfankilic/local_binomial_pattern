@@ -5,7 +5,7 @@ clear;  % Erase all existing variables.
 % Read in a standard MATLAB gray scale demo image.
 k=1;
 for z=1:17
-klasor = strcat(num2str(z),'/');
+klasor = strcat(num2str(z),'/mini_dataset');
 yol = strcat(klasor,'*.*g*');
 dosya=dir(yol);
 
